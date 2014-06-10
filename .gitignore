@@ -10,3 +10,6 @@ bin/
 
 # No gen directory.
 gen/
+
+# No .metadata directory.
+.metadata/ 
