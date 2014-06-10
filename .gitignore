@@ -1,0 +1,12 @@
+# Files and directories match below patterns will not be tracked.
+# No .settings directory.
+.settings/
+
+# No assets directory.
+assets/
+
+# No bin directory.
+bin/
+
+# No gen directory.
+gen/
